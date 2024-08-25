@@ -16,4 +16,4 @@ npm run build
 ```
 
 
-https://3-d-haunted-house-beryl.vercel.app/
+https://3dhauntedhousetran.netlify.app/
